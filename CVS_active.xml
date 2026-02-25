@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GROUP DESCRIPTION="" NAME="CVS" SEGMENT_ID="1528162827837768441" UPGRADE_PERFORMED="true">
+    <GROUP DESCRIPTION="" NAME="Active Scanning" SEGMENT_ID="2018742109389826648" UPGRADE_PERFORMED="true">
+        <GROUP DESCRIPTION="" NAME="CVS Enterprise - Active" SEGMENT_ID="2913543673952291644" UPGRADE_PERFORMED="true">
+            <GROUP DESCRIPTION="" NAME="Retail - Active Scanning" SEGMENT_ID="3180351389181598155" UPGRADE_PERFORMED="true">
+                <GROUP DESCRIPTION="" NAME="Qvlan Test" SEGMENT_ID="3320733923609017293" UPGRADE_PERFORMED="true">
+                    <RANGES RANGE="10.224.245.0-10.224.245.255"/>
+                    <RANGES RANGE="10.224.246.0-10.224.246.127"/>
+                </GROUP>
+                <GROUP DESCRIPTION="" NAME="RI" SEGMENT_ID="7513581654398413651" UPGRADE_PERFORMED="true">
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive" SEGMENT_ID="1319166367093453493" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets" SEGMENT_ID="2637486134471544063" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data" SEGMENT_ID="5047387999311382259" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW03 - Data-10.31.92.0" SEGMENT_ID="8000252893972521269" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.19.0-10.195.19.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[1]" SEGMENT_ID="3715883267603568118" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW02 - Data-10.31.88.0" SEGMENT_ID="1137861141091707974" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.188.64-10.195.188.127"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[2]" SEGMENT_ID="2626831465302306391" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW01 - Data-10.31.84.0" SEGMENT_ID="1045102400889725238" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.188.31"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice" SEGMENT_ID="6589872313357327114" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW03 - Voip-10.31.94.0" SEGMENT_ID="7840031216882247847" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.190.0-10.195.191.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[1]" SEGMENT_ID="7238272567459945241" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW02 - Voip-10.31.90.0" SEGMENT_ID="7271697091568446971" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.189.0-10.195.189.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[2]" SEGMENT_ID="6688884104933461593" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-8-SW01 - Voip-10.31.86.0" SEGMENT_ID="2765889648099470084" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.188.32-10.195.188.63"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[1]" SEGMENT_ID="2586436250322436411" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[1]" SEGMENT_ID="2714357088889904897" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[3]" SEGMENT_ID="1972324646367823142" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW03 - Data-10.31.72.0" SEGMENT_ID="5915205992634324330" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.184.0-10.195.187.255"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW04 - Data-10.31.76.0" SEGMENT_ID="2632758407195469448" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.188.0-10.195.188.31"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[4]" SEGMENT_ID="3080702126628192186" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW02 - Data-10.31.68.0" SEGMENT_ID="7975272974855315421" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.18.32-10.195.18.63"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[5]" SEGMENT_ID="6637512163668271368" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW01 - Data-10.31.64.0" SEGMENT_ID="2262940808222218895" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.18.0-10.195.18.31"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[3]" SEGMENT_ID="4043697933416374860" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW02 - Voip-10.31.70.0" SEGMENT_ID="8157190687198165947" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.18.64-10.195.18.127"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[4]" SEGMENT_ID="5658544747906765571" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T3-7-SW01 - Voip-10.31.66.0" SEGMENT_ID="3713352896237800410" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.18.128-10.195.18.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[2]" SEGMENT_ID="3623275831470657008" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[2]" SEGMENT_ID="6026277135978270275" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[6]" SEGMENT_ID="5167978184188234265" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-8-SW02 - Data-10.31.48.0" SEGMENT_ID="1900185208795968870" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.172.0-10.195.173.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[7]" SEGMENT_ID="7943734342076892996" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-8-SW01 - Data-10.31.44.0" SEGMENT_ID="8455606765666728885" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.170.0-10.195.171.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[5]" SEGMENT_ID="6146181579486226186" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-8-SW02 - Voip-10.31.50.0" SEGMENT_ID="5729066849851144400" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.174.0-10.195.175.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[6]" SEGMENT_ID="6079115876821714009" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-8-SW01 - Voip-10.31.46.0" SEGMENT_ID="3793501246276183521" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.170.1-10.195.170.126"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[3]" SEGMENT_ID="4642813981650724495" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[3]" SEGMENT_ID="8120563838289942646" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[8]" SEGMENT_ID="7652794334920732648" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-7-SW02 - Data-10.31.28.0" SEGMENT_ID="1520121326169182505" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.165.0-10.195.165.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[7]" SEGMENT_ID="3483237452965416677" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-7-SW02 - Voip-10.31.30.0" SEGMENT_ID="1854371018384483686" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.168.0-10.195.169.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[8]" SEGMENT_ID="3339679269201424911" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-7-SW01 - Voip-10.31.26.0" SEGMENT_ID="1090109558878601661" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.164.1-10.195.164.254"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[4]" SEGMENT_ID="2902216318932036966" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[9]" SEGMENT_ID="2883365714108156891" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T2-7-SW01 - Data-10.31.24.0" SEGMENT_ID="5489570501004516926" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.163.1-10.195.163.254"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="WiFi - 1 CVS and Surrounding -10.31.248.0" SEGMENT_ID="8181946594579913711" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.164.0-10.195.167.255"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[4]" SEGMENT_ID="4973053057410311159" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[5]" SEGMENT_ID="7775986598507018208" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[10]" SEGMENT_ID="4120089763340061541" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="165" SEGMENT_ID="1539481069890194402" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.160.0-10.195.160.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[5]" SEGMENT_ID="5974935423366217010" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[6]" SEGMENT_ID="7458661524887768890" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[11]" SEGMENT_ID="5312786105825797147" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T1-7-SW02 - Data-10.31.148.0" SEGMENT_ID="1097688412115881233" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.128.0-10.195.159.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[12]" SEGMENT_ID="3388050383901127528" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T1-7-SW01 - Data-10.31.144.0" SEGMENT_ID="5938129884311582856" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.12.0-10.195.13.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[9]" SEGMENT_ID="6757622649422386837" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T1-7-SW01 - Voip-10.31.146.0" SEGMENT_ID="4736023392541663876" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.120.0-10.195.127.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[6]" SEGMENT_ID="3752674693519848353" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[7]" SEGMENT_ID="3236647763514601181" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[13]" SEGMENT_ID="3473145609975090179" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-8-SW02 - Data-10.31.128.0" SEGMENT_ID="4721188900775803185" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.112.0-10.195.115.255"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-8-SW02 - Data-10.31.130.0" SEGMENT_ID="2045167062877383194" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.116.0-10.195.117.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[14]" SEGMENT_ID="4219859272614678430" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-8-SW01 - Data-10.31.124.0" SEGMENT_ID="1679400967669897290" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.110.0-10.195.111.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[10]" SEGMENT_ID="8065342635918778775" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-8-SW01 - Voip-10.31.126.0" SEGMENT_ID="2742770303409970408" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.111.0-10.195.111.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[7]" SEGMENT_ID="1820618098342929833" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 3 subnets[8]" SEGMENT_ID="5438600096395432953" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[15]" SEGMENT_ID="5258137594892749140" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-7-SW02 - Data-10.31.108.0" SEGMENT_ID="7448582509056212027" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.106.64-10.195.106.127"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Data[16]" SEGMENT_ID="6628900944417075773" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-7-SW01 - Data-10.31.104.0" SEGMENT_ID="6530016496228910676" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.106.192-10.195.106.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[11]" SEGMENT_ID="1988724363519719552" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-7-SW02 - Voip-10.31.110.0" SEGMENT_ID="2160487576840151814" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.107.0-10.195.107.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 3 - Voice[12]" SEGMENT_ID="7095864331909790663" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG3 - T4-7-SW01 - Voip-10.31.106.0" SEGMENT_ID="3206695180487498523" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.195.106.32-10.195.106.63"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[8]" SEGMENT_ID="2980402634672690745" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 1 subnets" SEGMENT_ID="2843588478334751379" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data" SEGMENT_ID="4061596772714008450" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW04 - Data-10.11.96.0" SEGMENT_ID="6658585675493342348" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.90.64-10.106.90.127"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[1]" SEGMENT_ID="7460019386742542174" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW03 - Data-10.11.92.0" SEGMENT_ID="8274268659014317457" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.90.0-10.106.90.63"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[2]" SEGMENT_ID="6809646891349564518" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW02 - Data-10.11.88.0" SEGMENT_ID="6489617037688065881" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.80.0-10.106.87.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[3]" SEGMENT_ID="3229661804559013341" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-4-SW01 - Data-10.11.8.0" SEGMENT_ID="1719021235234709990" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.186.1-10.106.186.254"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW01 - Data-10.11.84.0" SEGMENT_ID="4965206750802137608" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.187.1-10.106.187.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[4]" SEGMENT_ID="7503384646835656176" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-5-SW02 - Data-10.11.68.0" SEGMENT_ID="1793174864388281514" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.183.1-10.106.183.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[5]" SEGMENT_ID="7139644580446085980" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-5-SW01 - Data-10.11.64.0" SEGMENT_ID="5898960690243495172" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.181.1-10.106.181.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[6]" SEGMENT_ID="4469886901528838600" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW02 - Data-10.11.52.0" SEGMENT_ID="5082126219482845638" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.177.1-10.106.177.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[7]" SEGMENT_ID="5129628509430592156" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW01 - Data-10.11.48.0" SEGMENT_ID="7659390073514131624" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.174.1-10.106.174.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[8]" SEGMENT_ID="3889173956091611227" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-4-SW01 - Data-10.11.4.0" SEGMENT_ID="5922924098917482637" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.170.1-10.106.170.254"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW03 - Data-10.11.44.0" SEGMENT_ID="4801258568231078077" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.171.1-10.106.171.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[9]" SEGMENT_ID="7301620899230940396" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-6-SW01 - Data-10.11.24.0" SEGMENT_ID="4353915247634594073" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.166.1-10.106.166.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice" SEGMENT_ID="2562668267579558980" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW04 - Voip-10.11.98.0" SEGMENT_ID="8021244777675093154" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.91.0-10.106.91.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[1]" SEGMENT_ID="7925228845856420823" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW03 - Voip-10.11.94.0" SEGMENT_ID="8171160781291710000" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.90.128-10.106.90.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[2]" SEGMENT_ID="2579113506550116440" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW02 - Voip-10.11.90.0" SEGMENT_ID="2837046358554533526" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.88.0-10.106.89.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[3]" SEGMENT_ID="4918887970957125290" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-4-SW01 - Voip-10.11.86.0" SEGMENT_ID="1049080852120592533" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.64.0-10.106.79.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[4]" SEGMENT_ID="7594578599364456722" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-5-SW02 - Voip-10.11.70.0" SEGMENT_ID="4689969276001601126" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.185.1-10.106.185.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[5]" SEGMENT_ID="3127569728675086248" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-5-SW01 - Voip-10.11.66.0" SEGMENT_ID="5107011205208732772" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.182.1-10.106.182.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[6]" SEGMENT_ID="7720575897487705768" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-4-SW01 - Voip-10.11.6.0" SEGMENT_ID="3975007692905188109" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.179.1-10.106.179.254"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW02 - Voip-10.11.54.0" SEGMENT_ID="2407038266440189885" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.178.1-10.106.178.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[7]" SEGMENT_ID="6284036295211790829" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW01 - Voip-10.11.50.0" SEGMENT_ID="2728299288425604688" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.175.1-10.106.175.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[8]" SEGMENT_ID="5570053826865800909" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T2-4-SW03 - Voip-10.11.46.0" SEGMENT_ID="2300439809461106415" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.173.1-10.106.173.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[9]" SEGMENT_ID="6362325573120406594" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-6-SW01 - Voip-10.11.26.0" SEGMENT_ID="7661164322191712701" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.106.167.1-10.106.167.254"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 2 subnets" SEGMENT_ID="7462499886335819245" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data" SEGMENT_ID="7568375408432242385" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-1-SW02 - Data-10.21.88.0" SEGMENT_ID="5829528173547340426" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.49.0-10.123.49.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[1]" SEGMENT_ID="3595079229315234896" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-0-SW02 - Data-10.21.8.0" SEGMENT_ID="1866274756129776034" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.255.0-10.123.255.255"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-1-SW01 - Data-10.21.84.0" SEGMENT_ID="7401136010283960777" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.32.0-10.123.47.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[2]" SEGMENT_ID="4801763425553728865" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW03 - Data-10.21.72.0" SEGMENT_ID="1489685868938011363" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.252.0-10.123.253.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[3]" SEGMENT_ID="1949645505385565961" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW02 - Data-10.21.68.0" SEGMENT_ID="7575076113291437494" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.244.0-10.123.247.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[4]" SEGMENT_ID="4921385780525292433" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW01 - Data-10.21.64.0" SEGMENT_ID="5850064773358957308" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.241.64-10.123.241.127"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[5]" SEGMENT_ID="5473439109031488598" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW03 - Data-10.21.52.0" SEGMENT_ID="6101409850647620983" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.241.128-10.123.241.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[6]" SEGMENT_ID="8401300885122465407" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW02 - Data-10.21.48.0" SEGMENT_ID="1315275355195648324" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.240.0-10.123.240.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[7]" SEGMENT_ID="3216009271041270840" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-0-SW01 - Data-10.21.4.0" SEGMENT_ID="5816207889266963943" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.232.0-10.123.235.255"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW01 - Data-10.21.44.0" SEGMENT_ID="7305809007159393246" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.236.0-10.123.237.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[8]" SEGMENT_ID="3503582886914422399" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-2-SW02 - Data-10.21.28.0" SEGMENT_ID="4739237781523620534" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.192.0-10.123.223.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice" SEGMENT_ID="4632539180513908225" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-1-SW02 - Voip-10.21.90.0" SEGMENT_ID="4228860638409487980" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.50.0-10.123.51.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[1]" SEGMENT_ID="2606688160821968600" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-1-SW01 - Voip-10.21.86.0" SEGMENT_ID="8237534501172697765" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.48.0-10.123.48.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[2]" SEGMENT_ID="3206423704031631260" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW03 - Voip-10.21.74.0" SEGMENT_ID="1860976411604557758" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.254.0-10.123.254.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[3]" SEGMENT_ID="6492160385375813230" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW02 - Voip-10.21.70.0" SEGMENT_ID="5816519324779931084" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.248.0-10.123.251.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[4]" SEGMENT_ID="3651133063798276310" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-2-SW01 - Voip-10.21.66.0" SEGMENT_ID="3163993800908554720" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.242.0-10.123.243.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[5]" SEGMENT_ID="5811198227415674545" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-0-SW01 - Voip-10.21.6.0" SEGMENT_ID="1711173509207473544" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.241.32-10.123.241.63"/>
+                                </GROUP>
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW03 - Voip-10.21.54.0" SEGMENT_ID="5471300419571701941" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.241.16-10.123.241.31"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[6]" SEGMENT_ID="3727572904759138931" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW02 - Voip-10.21.50.0" SEGMENT_ID="6774017540731396335" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.241.0-10.123.241.15"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[7]" SEGMENT_ID="1853330955200583818" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T2-1-SW01 - Voip-10.21.46.0" SEGMENT_ID="2179365110934668574" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.238.0-10.123.239.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[8]" SEGMENT_ID="1674193796047591282" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-2-SW02 - Voip-10.21.30.0" SEGMENT_ID="4895638497943335825" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.224.0-10.123.231.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[9]" SEGMENT_ID="4589493418662365869" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-2-SW01 - Voip-10.21.26.0" SEGMENT_ID="3148198629883857116" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.148.1-10.123.149.254"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 2 subnets[1]" SEGMENT_ID="3685888031222526193" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[10]" SEGMENT_ID="1293342580557795975" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-1-SW01 - Data-10.21.164.0" SEGMENT_ID="5472325190687263832" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.134.1-10.123.135.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[11]" SEGMENT_ID="2499996131432450682" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW03 - Data-10.21.112.0" SEGMENT_ID="1686338415248896613" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.130.1-10.123.131.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[12]" SEGMENT_ID="2007520203300096454" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW02 - Data-10.21.108.0" SEGMENT_ID="3903379216147632446" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.128.0-10.123.191.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[13]" SEGMENT_ID="2277844025217910065" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW01 - Data-10.21.104.0" SEGMENT_ID="7902342869497695429" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.116.0-10.123.119.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Data[9]" SEGMENT_ID="6036986570960115406" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-2-SW01 - Data-10.21.24.0" SEGMENT_ID="2699959813112535464" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.144.1-10.123.145.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[10]" SEGMENT_ID="7134952239131440423" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-1-SW01 - Voip-10.21.166.0" SEGMENT_ID="5263746170335941363" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.140.1-10.123.141.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[11]" SEGMENT_ID="3963151574103631648" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW03 - Voip-10.21.114.0" SEGMENT_ID="6902165570838715980" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.132.1-10.123.133.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[12]" SEGMENT_ID="3954666301034936250" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW02 - Voip-10.21.110.0" SEGMENT_ID="5001096717253203239" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.128.1-10.123.128.254"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[13]" SEGMENT_ID="5336537994314683503" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T3-2-SW01 - Voip-10.21.106.0" SEGMENT_ID="3194238639503804523" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.120.0-10.123.127.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 2 - Voice[14]" SEGMENT_ID="3258094668648749061" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG2 - T1-0-SW02 - Voip-10.21.10.0" SEGMENT_ID="4781821479920181403" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.123.112.0-10.123.115.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="WiFi - 1 CVS and Surrounding -10.31.248.0[1]" SEGMENT_ID="4642303047045267268" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.123.146.1-10.123.147.254"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1 CVS Drive[9]" SEGMENT_ID="7878259138267118997" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="HQ Bldg 1 subnets[1]" SEGMENT_ID="3226311549304379963" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.100.95.0-10.100.95.255"/>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[10]" SEGMENT_ID="3974657148644374483" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T1-4-SW02 - Data-10.11.12.0" SEGMENT_ID="5767929163811308212" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.64.0-10.101.127.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[11]" SEGMENT_ID="1851821410344340978" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW03 - Data-10.11.116.0" SEGMENT_ID="4296913392818544405" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.52.0-10.101.55.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[12]" SEGMENT_ID="3081788055679793098" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW02 - Data-10.11.112.0" SEGMENT_ID="3926156158988966504" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.32.0-10.101.47.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[13]" SEGMENT_ID="3406631596084493702" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-6-SW01 - Data-10.11.108.0" SEGMENT_ID="3193141973358090519" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.0.0-10.101.31.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Data[14]" SEGMENT_ID="7960623768450498355" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW01 - Data-10.11.104.0" SEGMENT_ID="7532088094336330962" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.100.96.0-10.100.99.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[10]" SEGMENT_ID="3022055447616885906" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW03 - Voip-10.11.118.0" SEGMENT_ID="3826911783010078319" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.56.0-10.101.63.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[11]" SEGMENT_ID="2528597643733066410" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW02 - Voip-10.11.114.0" SEGMENT_ID="6698992993974714616" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.48.0-10.101.51.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[12]" SEGMENT_ID="6681982505888644090" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-6-SW01 - Voip-10.11.110.0" SEGMENT_ID="2728578958186586064" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.128.0-10.101.255.255"/>
+                                </GROUP>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BLDG 1 - Voice[13]" SEGMENT_ID="6720829731292000143" UPGRADE_PERFORMED="true">
+                                <GROUP DESCRIPTION="" NAME="HQ BLDG1 - T3-5-SW01 - Voip-10.11.106.0" SEGMENT_ID="7984227835944586065" UPGRADE_PERFORMED="true">
+                                    <RANGES RANGE="10.101.0.0-10.101.255.255"/>
+                                </GROUP>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="100 Highland Corp Drive (Ikon)" SEGMENT_ID="1530413549036561116" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch01 - Voip" SEGMENT_ID="7234698734172453776" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.161.0-10.195.161.255"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch02 - Data" SEGMENT_ID="1324454007141681635" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.161.11-10.195.161.254"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch02 - Voip" SEGMENT_ID="1900446554864807171" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.162.0-10.195.162.255"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch03 - Data" SEGMENT_ID="4033410180657753112" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.162.1-10.195.162.254"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch03 - Voip" SEGMENT_ID="8463189003726997655" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.163.0-10.195.163.255"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="100 Highland Corp Drive (Ikon)[1]" SEGMENT_ID="6113557001276181596" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch01 - Data" SEGMENT_ID="4990496661397691916" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.16.1-10.195.16.254"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch04 - Data" SEGMENT_ID="7152016695281394754" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.14.0-10.195.15.255"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="Ikon Building - Switch04 - Voip" SEGMENT_ID="5576355511789851776" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.195.16.0-10.195.17.255"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="100 Scenic View Drive" SEGMENT_ID="3856374539899253235" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="100 SVD Voice" SEGMENT_ID="6760054809023977014" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="100 SVD - MDF02 - 1st Floor - Voice" SEGMENT_ID="2742828552869111504" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.131.0-10.224.131.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="100 SVD - TCA21-SW01 - 2nd Floor - Voice" SEGMENT_ID="8284108736551366505" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.131.0-10.224.131.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="100 SVD - TCA21-SW02 - 2nd Floor - Voice" SEGMENT_ID="7546430241175327439" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.131.128-10.224.131.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="100 SVD - TCA31-SW01 - 3rd Floor - Voice" SEGMENT_ID="2024522835894415722" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.132.0-10.224.132.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="100 Scenic View Drive[1]" SEGMENT_ID="4196578789350289052" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="100 SVD Data" SEGMENT_ID="5647690546175310093" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="100 SVD - MDF02 - 1st Floor" SEGMENT_ID="2262757659432456728" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.113.0-10.224.113.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="100 SVD - TCA21-SW02 - 2nd Floor" SEGMENT_ID="7578706934198680185" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.114.0-10.224.114.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="100 SVD - TCA31-SW02 - 3rd Floor" SEGMENT_ID="1357776558025401453" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.114.128-10.224.114.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1026 Park East Drive" SEGMENT_ID="1030374602757009819" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="1026 Park East Drive- Voip" SEGMENT_ID="2672323244723374758" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="1026 PED - MDF03 - VOIP" SEGMENT_ID="7966654818437357426" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.136.0-10.224.136.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="1026 PED - TCA21-SW03 - VOIP" SEGMENT_ID="7726131094370877557" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.137.0-10.224.137.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="1026 PED - WA01 - VOIP" SEGMENT_ID="4293938962380740191" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.138.0-10.224.138.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1026 Park East Drive[1]" SEGMENT_ID="2763664035053685322" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="1026 Park East Drive- Voip[1]" SEGMENT_ID="4490718068503204922" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="1026 PED - MDF02 - VOIP" SEGMENT_ID="5507784490814342618" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.135.0-10.224.135.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1026 Park East Drive[2]" SEGMENT_ID="7582823498430512282" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="1026 Park East Drive - Data" SEGMENT_ID="2010209287535820912" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="1026 PED - TCA21-SW01 - Data" SEGMENT_ID="1578160670365541319" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.118.128-10.224.118.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="1026 PED - TCA21-SW02 - Data" SEGMENT_ID="6581435023657758446" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.119.0-10.224.119.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="1026 PED - WA01 - Server Room PC subnet" SEGMENT_ID="6251557597932121284" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.119.0-10.224.119.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="1026 Park East Drive[3]" SEGMENT_ID="2610400758958567496" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="1026 Park East Drive - Data[1]" SEGMENT_ID="3951212395546686116" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="1026 PED - MDF01 - Data" SEGMENT_ID="3343640931264024096" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.116.0-10.224.117.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="1026 PED - MDF02 - Data" SEGMENT_ID="2395160055340150103" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.117.0-10.224.117.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln" SEGMENT_ID="5944516597786475879" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - Voice" SEGMENT_ID="6768194053196785787" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - MDF-SW01 - 1st Floor - VOIP" SEGMENT_ID="3648405525550778447" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.13.0-10.224.13.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - MDF-SW02 - 2nd Floor - VOIP" SEGMENT_ID="8051260035690973890" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.130.0-10.224.130.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln[1]" SEGMENT_ID="8472943537410087847" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - Data" SEGMENT_ID="8207598242526286175" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - MDF-SW02 - 2nd Floor - Data" SEGMENT_ID="6295993271808455264" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.111.0-10.224.111.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - MDF-SW03 -1st Floor  - Data" SEGMENT_ID="5876103623700407628" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.111.0-10.224.111.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="11 Blackstone - Lincoln - MDF-SW04 -2nd Floor  - Data" SEGMENT_ID="5483790713570097781" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.111.128-10.224.111.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="200 Highland Corp Drive" SEGMENT_ID="4219351201125578121" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="WiFi - 200 HCD -10.26.248.0" SEGMENT_ID="6083703499151703953" UPGRADE_PERFORMED="true"/>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="2100 Highland Corp Drive" SEGMENT_ID="2203580880188148966" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data" SEGMENT_ID="3784262704229294507" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T13 Switch#1 - Data" SEGMENT_ID="7943106058865350984" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.163.1-10.106.163.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[10]" SEGMENT_ID="2454224942039270356" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#3 - Data" SEGMENT_ID="2516719664833991353" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.135.1-10.106.135.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[11]" SEGMENT_ID="7951575743544375013" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#2 - Data" SEGMENT_ID="1793428555091231216" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.133.1-10.106.133.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[12]" SEGMENT_ID="5104337410263665461" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#1 - Data" SEGMENT_ID="1865122669970223307" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.130.1-10.106.130.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[13]" SEGMENT_ID="1658125202614035097" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T12 Switch#2 - Data" SEGMENT_ID="7812745168481779881" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.128.0-10.106.255.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[14]" SEGMENT_ID="2098602666587082639" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T12 Switch#1 - Data" SEGMENT_ID="7761684950491159776" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.0.0-10.106.63.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[15]" SEGMENT_ID="4016103716007698363" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T11 Switch#2 - Data" SEGMENT_ID="8083553554710631067" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.104.0.0-10.104.255.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[16]" SEGMENT_ID="5571788626984149198" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T11 Switch#1 - Data" SEGMENT_ID="4491199640507387589" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.102.0.0-10.102.255.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[1]" SEGMENT_ID="4486638256926021174" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#4 - Data" SEGMENT_ID="3324523629361276593" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.161.1-10.106.161.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[2]" SEGMENT_ID="4725819696310733104" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#3 - Data" SEGMENT_ID="2427382454119843015" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.158.1-10.106.158.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[3]" SEGMENT_ID="7440246576510158528" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#2 - Data" SEGMENT_ID="8428771023644202484" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.155.1-10.106.155.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[4]" SEGMENT_ID="3670903897265382908" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#1 - Data" SEGMENT_ID="5922714472995764212" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.151.1-10.106.151.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[5]" SEGMENT_ID="7312351085040939586" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#8 - Data" SEGMENT_ID="2814339090774536678" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.149.1-10.106.149.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[6]" SEGMENT_ID="2475797950202320384" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#7 - Data" SEGMENT_ID="6599396450799019860" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.146.1-10.106.146.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[7]" SEGMENT_ID="6406516580457350191" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#6 - Data" SEGMENT_ID="6347941624920483132" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.143.1-10.106.143.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[8]" SEGMENT_ID="8433659128898825244" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#5 - Data" SEGMENT_ID="6736772881186546633" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.141.1-10.106.141.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Data[9]" SEGMENT_ID="7534337727282938935" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#4 - Data" SEGMENT_ID="6805990341289755301" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.138.1-10.106.138.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip" SEGMENT_ID="6454081856761154307" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T13 Switch#1 - Voip" SEGMENT_ID="7160625245062370083" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.165.1-10.106.165.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[10]" SEGMENT_ID="2086947656253318688" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#3 - Voip" SEGMENT_ID="1412214422609556606" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.137.1-10.106.137.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[11]" SEGMENT_ID="6583298915404420032" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#2 - Voip" SEGMENT_ID="8320074011634265828" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.134.1-10.106.134.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[12]" SEGMENT_ID="2951415087560903540" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#1 - Voip" SEGMENT_ID="7017893328511044474" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.131.1-10.106.131.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[13]" SEGMENT_ID="6510702988845919531" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T12 Switch#2 - Voip" SEGMENT_ID="2951557905516848760" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.129.1-10.106.129.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[14]" SEGMENT_ID="1561619454004822486" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T12 Switch#1 - Voip" SEGMENT_ID="1440347439452077622" UPGRADE_PERFORMED="true"/>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[15]" SEGMENT_ID="4421493214089178483" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T11 Switch#2 - Voip" SEGMENT_ID="1657322433962714332" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.105.0.0-10.105.255.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[16]" SEGMENT_ID="5708414612835312995" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T11 Switch#1 - Voip" SEGMENT_ID="7302630120646539959" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.103.0.0-10.103.255.255"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[1]" SEGMENT_ID="2781952810116324940" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#4 - Voip" SEGMENT_ID="3724577976574926068" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.162.1-10.106.162.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[2]" SEGMENT_ID="3446177000626025508" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#3 - Voip" SEGMENT_ID="5609379296006422496" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.159.1-10.106.159.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[3]" SEGMENT_ID="4188016611142829370" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#2 - Voip" SEGMENT_ID="8426330884753387788" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.157.1-10.106.157.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[4]" SEGMENT_ID="7261143168523734720" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T22 Switch#1 - Voip" SEGMENT_ID="4655596902007250994" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.154.1-10.106.154.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[5]" SEGMENT_ID="8075623430908038642" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#8 - Voip" SEGMENT_ID="1634425180173641064" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.150.1-10.106.150.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[6]" SEGMENT_ID="2086329455187093512" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#7 - Voip" SEGMENT_ID="2784261358677541987" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.147.1-10.106.147.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[7]" SEGMENT_ID="4112346953558597664" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#6 - Voip" SEGMENT_ID="1529963332197697765" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.145.1-10.106.145.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[8]" SEGMENT_ID="7859709969411296352" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#5 - Voip" SEGMENT_ID="7521054641585648532" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.142.1-10.106.142.254"/>
+                            </GROUP>
+                        </GROUP>
+                        <GROUP DESCRIPTION="" NAME="2100 HCD Voip[9]" SEGMENT_ID="6339111536626011838" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="2100HCD  IDF T21 Switch#4 - Voip" SEGMENT_ID="3146712269988572818" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.106.139.1-10.106.139.254"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="245 Social Street" SEGMENT_ID="1729429542250980738" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="245 Social Street - Voice" SEGMENT_ID="1367588871086036804" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="245 Social Street - MDF-SW02 - VOIP Vlan" SEGMENT_ID="4863875625983414904" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.138.128-10.224.138.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="245 Social Street - T12-SW01 - VOIP Vlan" SEGMENT_ID="5262069739096256577" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.139.0-10.224.139.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="245 Social Street[1]" SEGMENT_ID="5962849595759531228" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="245 Social Street - Data" SEGMENT_ID="2957597126907904215" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="245 Social Street - MDF-SW01 Data Vlan" SEGMENT_ID="1453017704581706208" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.119.128-10.224.119.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="245 Social Street - MDF-SW02 Data Vlan" SEGMENT_ID="6373567564774509730" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.12.0-10.224.12.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="245 Social Street - T12-SW01 Data Vlan" SEGMENT_ID="2158991915607900618" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.120.0-10.224.120.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="25 Blackstone - Lincoln" SEGMENT_ID="4549562357193877740" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="25 Blackstone - Lincoln - Voice" SEGMENT_ID="2807651424210458750" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - MDF Switch01 - VOIP" SEGMENT_ID="5245672132996931603" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.139.0-10.224.139.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T11-SW02 - VOIP" SEGMENT_ID="5678639499442724040" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.14.128-10.224.14.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T12 - NBM - VOIP" SEGMENT_ID="7722054644619783147" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.14.0-10.224.14.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T12(48) - NBM - VOIP" SEGMENT_ID="3873825607495332998" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.139.128-10.224.139.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="25 Blackstone - Lincoln[1]" SEGMENT_ID="6371893049447660001" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="25 Blackstone - Lincoln - Data" SEGMENT_ID="1423095422271304875" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T11-SW01 - ROC - Data" SEGMENT_ID="6208277817980596715" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.122.0-10.224.122.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T12(48) - NBM - Data" SEGMENT_ID="5904702317492082057" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.121.0-10.224.121.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="25 Blackstone (Lincoln) - T21 - RBO - Data" SEGMENT_ID="7909042537395800943" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.122.128-10.224.122.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln" SEGMENT_ID="6173975982043066157" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln - Voice" SEGMENT_ID="3395690697165907059" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln - T11-SW02 - VOIP" SEGMENT_ID="2766986367749880861" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.129.0-10.224.129.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln[1]" SEGMENT_ID="1457918701859364318" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln - Data" SEGMENT_ID="5477698785790213621" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln - MDF-SW01 - Data" SEGMENT_ID="5393222236237172650" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.110.128-10.224.110.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="4 Blackstone - Lincoln - T11-SW01 - Data" SEGMENT_ID="8323756371153616361" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.110.0-10.224.110.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="400 Scenic View Drive" SEGMENT_ID="6854554889909294653" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="400 SVD Voice" SEGMENT_ID="5174109200189920128" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="400 SVD - TCA21-SW02 - 2nd Floor - Voice" SEGMENT_ID="4704878104001441194" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.134.128-10.224.134.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="400 Scenic View Drive[1]" SEGMENT_ID="7827411089717069908" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="400 SVD Voice[1]" SEGMENT_ID="7133169886011636339" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="400 SVD - MDF-SW01 - 1st Floor - Voice" SEGMENT_ID="5988705720731521070" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.133.0-10.224.133.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="400 Scenic View Drive[2]" SEGMENT_ID="2346693971460197962" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="400 SVD Data" SEGMENT_ID="4722268346901852743" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="400 SVD - TCA21-SW01 - 2nd Floor" SEGMENT_ID="2527364116309744911" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.115.128-10.224.115.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="400 SVD - TCA21-SW02 - 2nd Floor" SEGMENT_ID="5242181443186648579" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.116.0-10.224.116.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="400 Scenic View Drive[3]" SEGMENT_ID="2379976253393317010" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="400 SVD Data[1]" SEGMENT_ID="4208351322797113102" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="400 SVD - MDF-SW02 - 1st Floor" SEGMENT_ID="6644992231559224698" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.115.0-10.224.115.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive" SEGMENT_ID="4233407838984381211" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Data" SEGMENT_ID="4418121287805350058" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW02 - Data-10.31.8.0" SEGMENT_ID="2588626205151247784" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.188.128-10.195.188.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive[1]" SEGMENT_ID="1530955188131379729" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Voice" SEGMENT_ID="4253733271722913418" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW01 - Voip-10.31.6.0" SEGMENT_ID="7425154204230398196" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.176.0-10.195.183.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive[2]" SEGMENT_ID="7383996572465935729" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Data[1]" SEGMENT_ID="6278655658294196151" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW01 - Data-10.31.4.0" SEGMENT_ID="4606307978901777911" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.168.1-10.195.168.254"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive[3]" SEGMENT_ID="4954011819912166843" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Voice[1]" SEGMENT_ID="4834589506393394377" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW01 - Voip-10.31.14.0" SEGMENT_ID="2479663928457062233" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.118.0-10.195.119.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive[4]" SEGMENT_ID="5564667014200084885" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Data[2]" SEGMENT_ID="5368651258418360288" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW03 - Data-10.31.12.0" SEGMENT_ID="7243177740736597422" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.108.0-10.195.109.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="475 Park East Drive[5]" SEGMENT_ID="4318480381959734188" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Voice[2]" SEGMENT_ID="2325161629201907673" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="475PED MDF - SW02 - Voip-10.31.10.0" SEGMENT_ID="2560483359292792216" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.195.106.160-10.195.106.191"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="695 George Washington Highway" SEGMENT_ID="8386578114351754731" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="695 George Washington Highway - Voice" SEGMENT_ID="5081571969338075114" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="695GWH-MDF-SW02 - VOIP" SEGMENT_ID="3300684666408839875" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.141.0-10.224.141.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T12-SW02 - VOIP" SEGMENT_ID="8158998016599327076" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.142.0-10.224.142.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T21-SW02 - VOIP" SEGMENT_ID="8045126891711176864" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.142.128-10.224.142.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="695 George Washington Highway[1]" SEGMENT_ID="7312762262960119319" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="695 George Washington Highway - Data" SEGMENT_ID="2530751811909627860" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="695GWH-MDF-SW01 - Data" SEGMENT_ID="7223955100520008696" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.123.0-10.224.123.127"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-MDF-SW02 - Data" SEGMENT_ID="5964511112665155537" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.123.0-10.224.123.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T12-SW01 - Data" SEGMENT_ID="3198195449501765655" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.123.128-10.224.123.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T12-SW02 - Data" SEGMENT_ID="3617291541279454012" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.124.0-10.224.124.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T21-SW01 - Data" SEGMENT_ID="3931605177014382688" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.124.0-10.224.127.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T21-SW02 - Data" SEGMENT_ID="4755822289474473482" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.125.0-10.224.125.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="695GWH-T22-SW01 - Data" SEGMENT_ID="3981475349580393856" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.126.0-10.224.126.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield" SEGMENT_ID="3335388438162885931" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Voice" SEGMENT_ID="3835215284722952478" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - MDF Switch02 - VOIP" SEGMENT_ID="2270439416496796019" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.140.0-10.224.140.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[1]" SEGMENT_ID="3521863500429926426" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Voice[1]" SEGMENT_ID="3387811049298671534" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - MDF Switch01 - VOIP" SEGMENT_ID="3912327457846523272" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.135.0-10.224.135.255"/>
+                            </GROUP>
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T13-SW01 - VOIP" SEGMENT_ID="5174718152126385774" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.135.128-10.224.135.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[2]" SEGMENT_ID="3503998248427530349" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Voice[2]" SEGMENT_ID="4175050030477183143" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T12-SW02 - VOIP" SEGMENT_ID="1907183926660009577" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.134.0-10.224.134.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[3]" SEGMENT_ID="4238136333562640712" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Voice[3]" SEGMENT_ID="6046380421810497555" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T12-SW01 - VOIP" SEGMENT_ID="2356277963918259405" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.130.128-10.224.130.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[4]" SEGMENT_ID="7933916131941344155" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Voice[4]" SEGMENT_ID="1173897062704139552" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T21-SW01 - VOIP" SEGMENT_ID="5853225528029811163" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.127.128-10.224.127.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[5]" SEGMENT_ID="1511314927303787840" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Data" SEGMENT_ID="2981544092911267189" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T13-SW01  -Data" SEGMENT_ID="8476488651433619140" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.118.0-10.224.118.127"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[6]" SEGMENT_ID="6645790445903934825" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Data[1]" SEGMENT_ID="7630172164183082266" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T12-SW02 -Data" SEGMENT_ID="3976946971180030544" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.115.0-10.224.115.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[7]" SEGMENT_ID="1870272100066019255" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Data[2]" SEGMENT_ID="1732503222440314997" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T12-SW01 -Data" SEGMENT_ID="6718328579845879968" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.112.0-10.224.112.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="BIC  - Smithfield[8]" SEGMENT_ID="1583231127146222191" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="BIC - Smithfield - Data[3]" SEGMENT_ID="2034444077262543288" UPGRADE_PERFORMED="true">
+                            <GROUP DESCRIPTION="" NAME="BIC (Smithfield) - T21-SW01 -Data" SEGMENT_ID="2100002007366498035" UPGRADE_PERFORMED="true">
+                                <RANGES RANGE="10.224.11.0-10.224.11.255"/>
+                            </GROUP>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="Scarsdale" SEGMENT_ID="4168411659540904818" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Scarsdale - Primary LAN - VOIP" SEGMENT_ID="6905556735816612185" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.224.128.0-10.224.128.255"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="Scarsdale[1]" SEGMENT_ID="5228686400267970995" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="Scarsdale - Primary LAN - Data" SEGMENT_ID="3886516484816863964" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.224.11.1-10.224.11.126"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="TF Green" SEGMENT_ID="3401407589429358973" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="TFGreen - Primary LAN - VOIP" SEGMENT_ID="3304297961210564380" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.224.127.0-10.224.127.127"/>
+                        </GROUP>
+                    </GROUP>
+                    <GROUP DESCRIPTION="" NAME="TF Green[1]" SEGMENT_ID="7683696612967788336" UPGRADE_PERFORMED="true">
+                        <GROUP DESCRIPTION="" NAME="TFGreen - Primary LAN - Data" SEGMENT_ID="6379186730652835301" UPGRADE_PERFORMED="true">
+                            <RANGES RANGE="10.224.109.0-10.224.109.255"/>
+                        </GROUP>
+                    </GROUP>
+                </GROUP>
+            </GROUP>
+        </GROUP>
+    </GROUP>
+</GROUP>
