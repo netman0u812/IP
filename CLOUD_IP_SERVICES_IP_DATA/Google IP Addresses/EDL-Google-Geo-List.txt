@@ -1,0 +1,10 @@
+https://saasedl.paloaltonetworks.com/feeds/gcp/us/any/ipv4
+https://saasedl.paloaltonetworks.com/feeds/gcp/asia/any/ipv4
+https://saasedl.paloaltonetworks.com/feeds/gcp/australia/any/ipv4
+https://saasedl.paloaltonetworks.com/feeds/gcp/europe/any/ipv4
+# Google_global
+https://saasedl.paloaltonetworks.com/feeds/gcp/global/any/ipv4
+# Google_GCP
+https://saasedl.paloaltonetworks.com/feeds/gcp/all/any/ipv4
+# Google Workspace
+https://saasedl.paloaltonetworks.com/feeds/googleworkspace/all/ipv4

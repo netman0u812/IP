@@ -1,0 +1,7 @@
+#
+filename:africa-south-ipv4.txt
+https://saasedl.paloaltonetworks.com/feeds/gcp/africa-south/any/ipv4
+#
+filename:africa-ipv4.txt
+https://saasedl.paloaltonetworks.com/feeds/gcp/africa/any/ipv4
+#

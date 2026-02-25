@@ -1,0 +1,97 @@
+Using the readme information and the cli_runner bash script as a
+reference.
+
+We need to generate a Mac OS and Linux compatable bash script that will
+retrieve files using the "curl -O <target>" command. As each file is
+downloaded its is renamed according to a name definition that precedes
+the file.
+
+The bash script should have the following generic functions
+
+-h for help - provides a summary of the what the script does and
+provides CLI examples.
+
+-v version, as the script itterates, we need to track changes. the
+script starts off at version 1.0. At the start of the script there is a
+VERSION = <0.0> variable. As changes are made to the script/ these
+changes should be summarized as the end of the script. as a comment:
+
+Here is the format for version info :
+
+# VERSION_HISTORY_start
+# Version 1.0 - Initial creation of the script....
+# Version 1.1 - changes made Version 1.2 - changes made
+# VERSION_HISTORY_end
+
+What is covered in the version, is declared in the prompt... Here is an
+example...
+
+"Lets add a function that adds a datestamp <DD-MM-YYYY_HH-MM> to the
+output file. - Map this as change version next version or as version
+2.1"
+
+When the -v command is run all of the data in the #VERSION_HISTORY section should be, 
+
+
+
+-d for debug, the debug command prints the script transactions to
+stdout.
+
+-p <1 - 5> This flag infoforms the script to run multiple processes, to
+deal with long target lists. the default is 1, which is just read the
+list and process the each target serially. 2 to 5, indicates how many
+transactions shouduld be run in paraellel. All of the parraell
+transactions should be terminated using the standar exit: ctl+c.
+
+The target file is defined using the -f flag
+
+-tr is used in place of the -f flag to run the script using a single
+target. the target can be in IP format - tr xxx.xxx.xxx.xxx or as a url
+framed by quotes
+
+-tr "https://saasedl.paloaltonetworks.com/feeds/gcp/africa/any/ipv4"
+
+along with --tr , and additional flag of -fn is needed to define the
+filename of the result file.
+
+
+Information about the target file formating:
+
+The script we are creating connects to a website and downloads a file.
+To eliminate the possibility of downloading the same file. As each file
+is downloaded it is renamed. The file name is defined ether on the cli using the -fn 
+flag or is defined in the target file according to the following rules.
+
+Target File Formating Rules:
+
+The targets are consumed by reading a file, that lists the targets per
+line. There are rules to reading the file as As each file that is
+downloaded, has the same name:
+
+Rule 1. ignore #
+
+Rule 2. filename:<name>, preceeds each download url, the <name> entry
+indicates what downloaded file will be named.
+
+Rule 3. https://<url>, a line that starts with "https" indicates a
+target that should be downloaded using the "curl -O <target>" command.
+
+Rule 4. ignore any line that does not start with filename or https
+
+here is an example of the file line pattern
+#
+filename:africa-south-ipv4.txt
+https://saasedl.paloaltonetworks.com/feeds/gcp/africa-south/any/ipv4
+#
+filename:africa-ipv4.txt
+https://saasedl.paloaltonetworks.com/feeds/gcp/africa/any/ipv4
+#
+
+As you can see from the example a filename and target are framed by #.
+
+
+
+
+
+
+
