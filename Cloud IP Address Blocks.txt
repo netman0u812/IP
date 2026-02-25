@@ -1,0 +1,40 @@
+AWS
+10.173.0.0/16(CVS)
+10.174.0.0/16 Secure Hub(CVS)
+10.208.0.0/16(Aetna)
+10.245.0.0.16 (Aetna)
+
+GCP
+10.112.0.0/16(Aetna)
+10.114.0.0/16(Securehub)
+10.117.0.0/16 GCP PCI and Shared HUB expansion(CVS)
+10.143.0.0/16(CVS)
+10.149.0.0/16 old chandler (Google RxConnect)
+10.157.0.0/16(Aetna)
+10.158.0.0/16(CVS)
+10.236.0.0/16(Securehub)
+10.247.0.0/16(Aetna)
+10.252.0.0/16(Aetna)
+
+Azure
+10.68.0.0/16 Azure Secure Hub
+10.74.0.0/16 Azure Secure Hub West-East
+10.82.0.0/16 Azure Secure Hub
+10.83.0.0/16 Azure Secure Hub
+10.85.0.0/16 Azure Secure Hub(CVS)
+10.86.0.0 /16 Azure Affiliates
+10.98.0.0/16 Azure Secure Hub for VDI
+10.141.0.0/16 Azure Aetna VDI
+10.142.0.0/16 Azure Aetna
+10.152.0.0/16 Azure Secure Hub(new) 
+10.155.0.0/16 Azure Secure Hub
+10.159.0.0/16 Azure Aetna
+10.175.0.0/16 Azure CVS
+10.207.0.0/16 Azure CVS Non-Prod Securehub East\West3
+10.209.0.0/16 Azure Aetna International
+10.210.0.0/16 Azure Aetna
+10.212.0.0/16 Azure CVS POC
+10.223.0.0/16 Azure CVS
+10.229.0.0/16 Azure CVS Non-Prod Secure Hub EAST2\Central
+10.242.0.0/16 Azure Secure Hub
+10.243.0.0/16 is split between Google and Azure
